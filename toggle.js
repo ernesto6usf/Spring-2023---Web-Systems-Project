@@ -10,5 +10,4 @@
             currentCSS.setAttribute('href', 'main.css');
           }
 
-          alert(currentCSS.getAttribute('href'));
       }
