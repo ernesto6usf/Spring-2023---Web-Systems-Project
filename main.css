@@ -4,6 +4,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 .image-bg {
     background-image: url("img/background.png");
     background-repeat: no-repeat;
@@ -64,7 +65,7 @@ li {
 }
 
 footer {
-    position: absolute;
+    
     bottom: 10px;
     width: 100%;
     text-align: center;
@@ -100,6 +101,7 @@ th, td {
     flex-wrap: wrap;
     align-items: center;
     align-content: center;
+    
     gap: 70px;
     padding: 40px;
 }
